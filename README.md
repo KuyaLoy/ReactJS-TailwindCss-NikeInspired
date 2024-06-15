@@ -1,8 +1,21 @@
-# React + Vite
+### Nike-Inspired Branding Site README.md
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```markdown
+# Nike-Inspired Branding Site
 
-Currently, two official plugins are available:
+## Description
+This is a branding UI project inspired by Nike's shoe website. It is built using ReactJS, Vite, and TailwindCSS. The site is designed to showcase shoes and has no additional functionalities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Site
+https://kuyaloy.github.io/ReactJS-TailwindCss-NikeInspired/
+
+## Repository
+https://github.com/KuyaLoy/ReactJS-TailwindCss-NikeInspired
+
+## How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/KuyaLoy/ReactJS-TailwindCss-NikeInspired.git
+   cd ReactJS-TailwindCss-NikeInspired
+   npm install
+   npm run dev
